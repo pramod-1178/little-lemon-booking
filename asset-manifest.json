@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/little-lemon-booking/static/css/main.9b9ca701.css",
+    "main.js": "/little-lemon-booking/static/js/main.8974ae12.js",
+    "index.html": "/little-lemon-booking/index.html",
+    "main.9b9ca701.css.map": "/little-lemon-booking/static/css/main.9b9ca701.css.map",
+    "main.8974ae12.js.map": "/little-lemon-booking/static/js/main.8974ae12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b9ca701.css",
+    "static/js/main.8974ae12.js"
+  ]
+}
