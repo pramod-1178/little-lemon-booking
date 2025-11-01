@@ -1,0 +1,50 @@
+body {
+  background-color: #fffaf0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.booking-form {
+  background: white;
+  padding: 20px;
+  margin: 40px auto;
+  width: 320px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.booking-form h2 {
+  color: #495e57;
+  text-align: center;
+}
+
+.booking-form label {
+  display: block;
+  margin-bottom: 12px;
+}
+
+.booking-form input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+}
+
+button {
+  background-color: #f4ce14;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e0b800;
+}
+
+.error {
+  color: red;
+  font-size: 0.85rem;
+}
